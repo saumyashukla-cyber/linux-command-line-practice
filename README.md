@@ -1,4 +1,4 @@
-Linux Command-Line Practice
+*Linux Command-Line Practice*
 
 Project Overview
 This repository documents my hands-on practice with Linux commands and basic system administration.
