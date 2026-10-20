@@ -51,8 +51,7 @@ ss -tuln
 ```
 
 Purpose: Lists listening TCP and UDP sockets.
-
-![TCP Network Connections](/home/kali/Downloads/Screenshot_2026-10-15_11_55_42.png)
+![/home/kali/Downloads/Screenshot_2026-10-15_11_55_42.png]
 
 
 Troubleshooting Checklist
